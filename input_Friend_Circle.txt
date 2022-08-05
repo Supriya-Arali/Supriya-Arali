@@ -1,0 +1,24 @@
+friends 0 1
+total
+friends 2 3
+total
+friends 2 4
+total
+friends 2 6
+total
+friends 2 5
+total
+friends 5 6
+total
+friends 1 4
+total
+breakUp 2 3
+total
+breakUp 2 5
+total
+breakUp 4 2
+total
+breakUp 1 4
+total
+breakUp 0 1
+total
